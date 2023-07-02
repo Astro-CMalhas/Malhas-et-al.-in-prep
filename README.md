@@ -15,10 +15,11 @@ Galactic outflows are phenomena where gas is expelled from galaxies into the int
 Contents
 This repository contains the following components:
 
-Figure 1-10: This directory includes the raw image files as well as the code for generating the plots in the order they are featured in the paper.
-Paper_Plotter.ipynb: Here you can find the google collab notebook where all the calculations and figures can be found.
-Results: This section presents the results of the study, including plots, figures, and tables illustrating the relationships between outflow properties and host galaxy characteristics.
-References: A list of references and relevant literature used in this project.
+-Figure 1-10: This directory includes the raw image files as well as the code for generating the plots in the order they are featured in the paper.
+-Paper_Plotter.ipynb: Here you can find the google collab notebook where all the calculations and figures can be found.
+-Chisholm2016data.csv: As much of the comparisions we make are to a sample of galaxies observed in a similar manner, but with larger stellar-mass values than the ones featured in this work. As such, I have 
+included a csv of the data acquired directly in Chisholm 2016 "Shining a light...". 
+
 Usage
 To utilize this repository, follow these steps:
 
